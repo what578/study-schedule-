@@ -1,0 +1,4 @@
+
+
+testDb = "myTestDb"
+dataBaseName =  testDb
